@@ -1,6 +1,6 @@
 # kingid
 # git clone https://github.com/King-crack-id/kingid
 # ls
-# cd null
+# cd kingid
 # ls
 # python null.py
